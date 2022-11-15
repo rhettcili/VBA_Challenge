@@ -7,19 +7,21 @@ The purpose of this project was to use VBA to refactor the module's code to atte
 
 2017
 
-![image_1](Resources/"something.jpeg")
+![image_1](Resources/2017_Return.JPG)
 
-runtime
+Runtime:
 
-![image_2](Resources/"something.jpeg")
+![image_2](/Resources/2017_runtime.JPG)
 
 2018
 
-![image_3](Resources/"something.jpeg")
+![image_3](/Resources/2018_Return.JPG)
 
-runtime
+Runtime:
 
-![image_4](Resources/"something.jpeg")
+![image_4](/Resources/2018_runtime.JPG)
+
+The return was able to be processed very fast for the entire sheet in both instances. But as we can see from the rerturn values, the 2017 year had exceptionally higher returns across the board. Even the fiew stocks in the green from the 2018 year, did not return as much as they had in 2017.
 
 ## Summary
 The primary advantage of refactoring code is the ground work being laid already for the code you intend to use. This makes it easier to make small edits to optimize the specifics of what the code does. The primary disadvantage though, is that the code is already mostly made, and so 
